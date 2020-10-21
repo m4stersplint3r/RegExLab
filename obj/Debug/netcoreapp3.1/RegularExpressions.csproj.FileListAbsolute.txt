@@ -1,0 +1,13 @@
+D:\Bootcamp\Labs\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.exe
+D:\Bootcamp\Labs\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.deps.json
+D:\Bootcamp\Labs\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.runtimeconfig.json
+D:\Bootcamp\Labs\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.runtimeconfig.dev.json
+D:\Bootcamp\Labs\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.dll
+D:\Bootcamp\Labs\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.pdb
+D:\Bootcamp\Labs\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.csprojAssemblyReference.cache
+D:\Bootcamp\Labs\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.AssemblyInfoInputs.cache
+D:\Bootcamp\Labs\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.AssemblyInfo.cs
+D:\Bootcamp\Labs\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Labs\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.dll
+D:\Bootcamp\Labs\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.pdb
+D:\Bootcamp\Labs\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.genruntimeconfig.cache
